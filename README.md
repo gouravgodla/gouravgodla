@@ -1,3 +1,1 @@
-<img src="https://raw.githubusercontent.com/itsgourav19/itsgourav19/output/snake.svg" alt="Snake animation" />
-
-###
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
