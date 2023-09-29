@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Gourav and  I'm a Front-end Developer from India</h3>
+<h3 align="left">My name is Gourav Singh and  I'm a Front-end Developer from India</h3>
 
 ###
 
