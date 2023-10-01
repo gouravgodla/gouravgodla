@@ -45,8 +45,12 @@
 </div>
 
 ###
-
+<div align="center">
 ![itsgourav19's Stats](https://github-readme-stats.vercel.app/api?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+</div>
+<div align="left">
+![itsgourav19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsgourav19&theme=highcontrast&hide_border=true)
+</div>
 
 ###
 
