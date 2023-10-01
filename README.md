@@ -45,13 +45,13 @@
 </div>
 
 ###
-
+![itsgourav19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ![itsgourav19's Stats](https://github-readme-stats.vercel.app/api?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 
 ![itsgourav19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsgourav19&theme=highcontrast&hide_border=true)
 
-![itsgourav19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 ###
 
 
