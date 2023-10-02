@@ -52,5 +52,5 @@
 
 ###
 
-[![An image of @itsgourav19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsgourav19)](https://holopin.io/@itsgourav19)
+[![An image of @itsgourav19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsgourav19)]
 ###
