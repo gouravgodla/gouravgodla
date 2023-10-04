@@ -55,3 +55,4 @@
 ![An image of @itsgourav19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsgourav19)
 
 ###
+[![itsgourav19's GitHub | Stats](https://stats.quine.sh/itsgourav19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsgourav19)
