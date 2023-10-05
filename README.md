@@ -48,7 +48,7 @@
 ![itsgourav19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ![itsgourav19's Stats](https://github-readme-stats.vercel.app/api?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsgourav19&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsgourav19)](https://git.io/streak-stats)
 
 
 
