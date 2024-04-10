@@ -41,14 +41,14 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/itsgourav19/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/gouravgodla/count.svg?"  />
 </div>
 
 ###
-![itsgourav19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-![itsgourav19's Stats](https://github-readme-stats.vercel.app/api?username=itsgourav19&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![itsgourav19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![itsgourav19's Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=itsgourav19)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gouravgodla)
 
 
 
