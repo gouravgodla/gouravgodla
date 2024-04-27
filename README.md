@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<img align="right" src="https://giphy.com/embed/2IudUHdI075HL02Pkk">
+<img align="right" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
 ###
 
