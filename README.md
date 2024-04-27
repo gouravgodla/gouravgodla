@@ -5,6 +5,7 @@
 <div align="center">
   
 ###
+
 <h3 align="left">My name is Gourav Singh and  I'm a Front-end Developer from India</h3>
 </div>
 
@@ -12,7 +13,6 @@
 
 <h2 align="left">About me</h2>
 
-###
 
 <br clear="both">
 
