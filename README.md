@@ -9,7 +9,6 @@
 <h3 align="left">My name is Gourav Singh and  I'm a Front-end Developer from India</h3>
 </div>
 
-##
 <h2 align="left">About me</h2>
 
 #####
@@ -19,20 +18,14 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV2bHRoMnk3ZWM1cHVpZmN1cGdtdHYzZW1paThzaW8xNDZ5NnZ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="200" width="500"/>
 
 
-###
-
-<h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding <br></h3>
-
 ####
 
-
+<h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding <br></h3>
+<br>
+####
+<br>
 <div align="center">
-  
-###
-  
-<h2 align="center">I code with</h2>
-
-###
+  <h2 align="center">I code with</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
