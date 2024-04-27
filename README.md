@@ -13,6 +13,7 @@
 
 <h2 align="left">About me</h2>
 
+###
 
 <br clear="both">
 
@@ -20,7 +21,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Angular<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding</h3>
+<h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Angular<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding</h3>
 
 ###
 
