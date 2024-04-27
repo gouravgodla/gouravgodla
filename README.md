@@ -23,13 +23,11 @@
 
 <h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding <br></h3>
 
-###
-
-<h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
+  ###
+<h2 align="center">I code with</h2>
+###
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
