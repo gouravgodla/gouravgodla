@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+<img align="right" height="200" src=""  />
 
 ###
 
