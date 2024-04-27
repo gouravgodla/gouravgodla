@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Angular<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding</h3>
+<h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding</h3>
 
 ###
 
