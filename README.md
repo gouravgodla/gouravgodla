@@ -3,6 +3,10 @@
 
 
 <div align="center">
+
+
+
+
   
 ###
 
@@ -11,7 +15,10 @@
 
 <h2 align="left">About me</h2>
 
-#####
+
+
+
+###
 
 <br clear="both">
 
@@ -23,7 +30,8 @@
 <h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: I Love Coding <br></h3>
 <br>
 
-####
+
+
 
 
 ####
@@ -43,11 +51,14 @@
   <img src="https://cdn.simpleicons.org/react/DD0031" height="40" alt="angularjs logo"  />
 </div>
 
-###
 
+
+###
 <div align="center">
   <img src="https://profile-counter.glitch.me/gouravgodla/count.svg?"  />
 </div>
+
+
 
 ###
 <div align="center">
@@ -61,9 +72,12 @@
 </div>
 
 
+
 ###
 
 ![An image of @itsgourav19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsgourav19)
+
+
 
 ###
 [![itsgourav19's GitHub | Stats](https://stats.quine.sh/itsgourav19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsgourav19) [![itsgourav19's Stack Overflow | Stats](https://stats.quine.sh/itsgourav19/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsgourav19)
