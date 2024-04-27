@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -45,11 +45,12 @@
 </div>
 
 ###
+<div align="center">
 ![itsgourav19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ![itsgourav19's Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gouravgodla)
-
+</div>
 
 
 ###
