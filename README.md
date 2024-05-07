@@ -81,6 +81,8 @@
 
 
 
+
 ###
-[![itsgourav19's GitHub | Stats](https://stats.quine.sh/itsgourav19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsgourav19) [![itsgourav19's Stack Overflow | Stats](https://stats.quine.sh/itsgourav19/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsgourav19)
+[![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla) [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
+
 
