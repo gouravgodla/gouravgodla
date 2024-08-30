@@ -44,10 +44,13 @@
 
 ###
 <div align="left">
-
-   ![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-  ![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=gouravgodla)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=gouravgodla)
+<br>
+![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+<br>
+![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+  
 </div>
 
 
