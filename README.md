@@ -1,14 +1,10 @@
-
 <h1 align="left">Hey 👋 What's up?</h1>
-
 
 ####
 
+<h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: error not found <br></h3>
 <br>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
