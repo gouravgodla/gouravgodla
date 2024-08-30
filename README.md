@@ -35,7 +35,8 @@
 
 ###
 <br>
-<div align="center">
+<div align="left">
+  <h2 align="left">📊 GitHub Stats:</h2>
   <img src="https://profile-counter.glitch.me/gouravgodla/count.svg?"  />
 </div>
 
