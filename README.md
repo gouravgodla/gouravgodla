@@ -1,23 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">  Hi👋, I'm Gourav</h1>
 
 ####
 
-<h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: error not found <br></h3>
+<h2 align="center">A passionate Web developer and a Tech Enthusiast.</h2>
+<h2 align="left">
+  
+  ✨ Creating bugs since **2022**<br>
+  🔭 I’m currently working on **Frontend Technologies**<br>
+  🎯 Goals: **Full Stack Developer** <br>
+  🎲 Fun fact: Error not found <br></h2>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 </p>
 
-<h3 align="left">Support:</h3>
+<h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/gouravgodla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gouravgodla" /></a></p><br><br>
 
 
 
-####
-<br>
-<div align="left">
-  <h2 align="left">💻 Tech Stack:</h2>
+  
+  # 💻 Tech Stack:
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -33,15 +37,8 @@
 
 
 
-###
-<br>
-<div align="left">
-  <h2 align="left">📊 GitHub Stats:</h2>
- 
-</div>
-
-
-###
+  # 📊 GitHub Stats:
+  
 <div align="left">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=false)
