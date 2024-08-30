@@ -58,11 +58,11 @@
 </div>
 
 
-<div align="left">
+<div align="right">
   
 [![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)  
 </div>
-<div align="right">
+<div align="left">
   
 [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
 </div>
