@@ -41,11 +41,10 @@
 </div>
 
 
-
 ###
 <div align="left">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=gouravgodla)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=false)
 </div>
 
 <div align="right">
@@ -68,6 +67,12 @@
 [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
 </div>
 
-###
- <img src="https://profile-counter.glitch.me/gouravgodla/count.svg?"  />
+
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+---
+[![](https://visitcount.itsvg.in/api?id=gouravgodla&icon=0&color=0)](https://visitcount.itsvg.in)
 
