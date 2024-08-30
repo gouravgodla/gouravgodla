@@ -2,31 +2,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
-<div align="center">
-
-
-
-
-  
-###
-
-<h3 align="left">This Side Gourav Singh  
-  <br>
-  Front-end Developer</h3>
-</div>
-
-<h2 align="left">About me</h2>
-
-
-
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV2bHRoMnk3ZWM1cHVpZmN1cGdtdHYzZW1paThzaW8xNDZ5NnZ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="230" width="500"/>
-
-
 ####
 
 <h3 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Full Stack Developer <br>🎲 Fun fact: error not found <br></h3>
