@@ -54,17 +54,15 @@
 </div>
 
 
-
 ###
-
-![An image of @itsgourav19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsgourav19)
-
-
-
-
-###
-[![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)     [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
-
+<div align="left">
+  
+[![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)  
+</div>
+<div align="right">
+  
+[![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
+</div>
 ###
  <img src="https://profile-counter.glitch.me/gouravgodla/count.svg?"  />
 
