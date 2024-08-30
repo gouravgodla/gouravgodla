@@ -1,26 +1,30 @@
-<h1 align="left">  Hi👋, I'm Gourav</h1>
+<h1 align="center"> 
+  Hi👋, I'm Gourav
+</h1>
 
-####
 
-<h2 align="center">A passionate Web developer and a Tech Enthusiast.</h2>
+<h2 align="center">
+  A passionate Web developer and a Tech Enthusiast.</h2>
 <h2 align="left">
   
-  ✨ Creating bugs since **2022**<br>
-  🔭 I’m currently working on **Frontend Technologies**<br>
+  ✨ Creating bugs since **2022** <br>
+  🔭 I’m currently working on **Frontend Technologies** <br>
   🎯 Goals: **Full Stack Developer** <br>
-  🎲 Fun fact: Error not found <br></h2>
-<br>
-<h2 align="left">Connect with me:</h2>
+  🎲 Fun fact: Error not found <br>
+
+
+# Connect with me:
 <p align="left">
 </p>
 
-<h2 align="left">Support:</h2>
+
+# Support:
 <p><a href="https://www.buymeacoffee.com/gouravgodla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gouravgodla" /></a></p><br><br>
 
 
 
-  
-  # 💻 Tech Stack:
+ 
+ # 💻 Tech Stack:
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -37,9 +41,9 @@
 
 
 
-  # 📊 GitHub Stats:
-  
-<div align="left">
+
+ # 📊 GitHub Stats:
+  <div align="left">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=false)
 </div>
@@ -54,7 +58,6 @@
 </div>
 
 
-###
 <div align="left">
   
 [![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)  
