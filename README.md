@@ -16,7 +16,7 @@
 
 ####
 <br>
-<div align="center">
+<div align="left">
   <h2 align="left">💻 Tech Stack:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
