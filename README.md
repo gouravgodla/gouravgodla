@@ -67,7 +67,7 @@
 [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
 </div>
 
-<div align="left">
+<div align="right">
   
 ![](https://github-contributor-stats.vercel.app/api?username=gouravgodla&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
