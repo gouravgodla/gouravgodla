@@ -46,11 +46,15 @@
 <div align="left">
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gouravgodla)
-<br>
-![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-<br>
-![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+</div>
+
+<div align="right">
   
+![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+</div>
+<div align="left">
+  
+![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 
@@ -63,6 +67,7 @@
   
 [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
 </div>
+
 ###
  <img src="https://profile-counter.glitch.me/gouravgodla/count.svg?"  />
 
