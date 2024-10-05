@@ -51,8 +51,7 @@
 
 <div align="left">
   
-   ![](https://github-contributor-stats.vercel.app/api?username=gouravgodla&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+   ![](https://github-contributor-stats.vercel.app/api?username=gouravgodla&limit=5&theme=dark&combine_all_yearly_contributions=true) ![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 
