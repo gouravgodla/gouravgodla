@@ -46,7 +46,7 @@
  
   <div align="left">
     
-![gouravgodla](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=true)
 
 ![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 </div>
