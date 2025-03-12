@@ -46,18 +46,21 @@
  
   <div align="left">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=false) ![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gouravgodla&theme=dark&hide_border=false) 
+![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <div align="left">
   
-![](https://github-contributor-stats.vercel.app/api?username=gouravgodla&limit=5&theme=dark&combine_all_yearly_contributions=true) ![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![](https://github-contributor-stats.vercel.app/api?username=gouravgodla&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 
 <div align="center">
   
-[![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)  [![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
+[![gouravgodla GitHub | Stats](https://stats.quine.sh/gouravgodla/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)  
+[![gouravgodla Stack Overflow | Stats](https://stats.quine.sh/gouravgodla/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouravgodla)
 </div>
 
 
