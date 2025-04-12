@@ -56,19 +56,11 @@ Not Found
 
  # 📊 GitHub Stats:
  
-  <div align="left">
+  <div align="center">
     
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouravgodla&theme=dark&hide_border=true" alt="GitHub Streak" /></a> ![gouravgodla Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouravgodla&theme=dark&hide_border=true" alt="GitHub Streak" /></a> 
+
 </div>
-
-<div align="left">
-  
-![](https://github-contributor-stats.vercel.app/api?username=gouravgodla&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-![gouravgodla Stats](https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-</div>
-
-
-
 
 
 
