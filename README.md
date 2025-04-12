@@ -5,7 +5,7 @@
 
 <h2 align="center">
   A passionate Web developer and a Tech Enthusiast.</h2>
-<h2 align="left">
+<align="left">
   
  👋 Hey there! I'm a passionate MERN stack developer turning ideas into functional, beautiful web apps.
 
