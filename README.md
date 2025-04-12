@@ -7,10 +7,22 @@
   A passionate Web developer and a Tech Enthusiast.</h2>
 <h2 align="left">
   
-  ✨ Creating bugs since **2022** <br>
-  🔭 I’m currently working on **Frontend Technologies** <br>
-  🎯 Goals: **Full Stack Developer** <br>
-  🎲 Fun fact: Error not found <br>
+ 👋 Hey there! I'm a passionate MERN stack developer turning ideas into functional, beautiful web apps.
+
+💻 What I’m Building:
+Full-stack applications that are not only efficient but also fun to use!
+
+🤝 Let’s Collaborate:
+I'm eager to jump into more full-stack projects—especially those that push the limits of creativity and code.
+
+🔗 See My Work:
+Check out my Portfolio and Resume to get a feel for what I do.
+
+💬 Ask Me Anything:
+Whether it’s React, Node.js, Express, MongoDB, web design tips, or AI/ML integrations—I'm here to chat!
+
+🧠 Fun Side of Me:
+Not Found
 
 
 # Connect with me:
