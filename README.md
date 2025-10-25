@@ -15,7 +15,7 @@
 👨‍💻 MERN Stack Developer turning ideas into functional & beautiful web apps.  
 ⚡ Building full-stack apps that are efficient, scalable & fun to use.  
 🤝 Open to collaborating on **innovative projects** that push creativity & code.  
-📂 Explore my work → [Portfolio](https://gouravgodla-portfolio.vercel.app/) | [Resume](#)  
+📂 Explore my work → [Portfolio](https://gourav-godla.vercel.app/)  
 💬 Ask me about: React, Next.js, Node.js, Express, MongoDB, APIs, or AI/ML integration.  
 🎯 Fun Side of Me: Still loading... `Not Found` 😅  
 
