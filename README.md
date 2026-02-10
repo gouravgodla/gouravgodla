@@ -91,7 +91,6 @@ Currently strengthening my knowledge in **system design, distributed architectur
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouravgodla&theme=radical&hide_border=false&include_all_commits=true" height="160px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=gouravgodla&theme=radical&hide_border=false" height="160px"/>
 </p>
 
